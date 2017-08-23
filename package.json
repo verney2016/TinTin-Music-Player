@@ -4,6 +4,7 @@
   "description": "tintin-music-player by react",
   "main": "app/index.js",
   "dependencies": {
+    "antd": "^2.12.7",
     "pubsub-js": "^1.5.4",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
